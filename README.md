@@ -2,7 +2,7 @@
 The midterm homework for deep learning and neural network
 ## RUN
 ```bash
-cd data/
-cd result/
+mkdir data
+mkdir result
 python train.py
 ```
